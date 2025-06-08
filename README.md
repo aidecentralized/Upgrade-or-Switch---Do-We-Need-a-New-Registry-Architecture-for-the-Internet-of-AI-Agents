@@ -1,0 +1,1 @@
+# v0.3-Upgrade-or-Switch---Do-We-Need-a-New-Registry-Architecture-for-the-Internet-of-AI-Agents
