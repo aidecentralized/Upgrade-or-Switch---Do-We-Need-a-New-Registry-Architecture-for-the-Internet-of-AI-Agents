@@ -1,4 +1,4 @@
-# Upgrade or Switch: Do We Need a New Registry Architecture for the Internet of AI Agents?
+# v0.3 Upgrade or Switch: Do We Need a New Registry Architecture for the Internet of AI Agents?
 
 **Ramesh Raskar** (MIT), **Pradyumna Chari** (MIT), **Jared James Grogan** (Harvard), **Mahesh Lambe** (Stanford), **Robert Lincourt** (DELL), **Raghu Bala** (Synergetics), **Abhishek Singh** (MIT), **Ayush Chopra** (MIT), **Rajesh Ranjan** (CMU), **Shailja Gupta** (CMU), **Dimitris Stripelis** (Flower.ai), **Maria Gorskikh**, **Sichao Wang** (CISCO)
 
